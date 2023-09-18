@@ -1,0 +1,8 @@
+
+
+t14_71.csv
+t14_105_jc.csv
+t15_428.csv					Tablas de traducción de códigos catastrales.
+
+14900U_23062023.CAT.gz		Fichero CAT de Catastro.
+geom						Carpeta con los ficheros shapefile de Catastro.

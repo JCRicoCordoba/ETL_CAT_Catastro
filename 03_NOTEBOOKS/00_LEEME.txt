@@ -1,0 +1,11 @@
+
+La carpeta "tablas" son las salidas de las querys del TFM.
+
+La carpeta ·img" son las carpetas de las imágenes asociadas a los notebooks.
+
+La ruta de cada carpeta se declara en unas variables en los notebook
+
+	url_tablas = r'C:\\Temp\\tablas\\'
+
+	url_img = r'C:\\Temp\\img\\'
+

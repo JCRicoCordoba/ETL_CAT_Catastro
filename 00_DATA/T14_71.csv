@@ -1,0 +1,368 @@
+Cd_71,uso_BI,Act_71_14,coduso_BI
+A  ,ALMACEN,Almacenamiento,A
+AAL,ALMACEN,Almacén,A
+AAP,ALMACEN_ESTACIONAMIENTO,Almacenamiento Aparcamiento,A
+ÀAP,ALMACEN_ESTACIONAMIENTO,Almacenamiento Aparcamiento,A
+ACR,INSTALACIONES,Caseta para instalación de riego,A
+ACT,INSTALACIONES,Caseta para transformadores,A
+AES,ESTACIONAMIENTO,Estación,A
+AIG,ALMACEN,Edificaciones e instalaciones ganaderas de carácter extensivo,A
+ALL,ALMACEN_ESTACIONAMIENTO,Sin definir. Estacionamiento,A
+APP,ALMACEN_ESTACIONAMIENTO,Sin definir. Estacionamiento,A
+B  ,ALMACEN,Almacenamiento,B
+BAA,ALMACEN,Sin definir,B
+BAL,ALMACEN,Almacén,B
+BAP,ESTACIONAMIENTO,Almacenamiento Aparcamiento,B
+BCR,INSTALACIONES,Caseta para instalación de riego,B
+BCT,INSTALACIONES,Caseta para transformadores,B
+BES,ALMACEN,Estación,B
+BIG,ALMACEN,Edificaciones e instalaciones ganaderas de carácter extensivo,B
+C  ,COMERCIAL,Comercio,C
+CAT,COMERCIAL,Automóviles,C
+CBR,COMERCIAL,Sin definir,C
+CBZ,COMERCIAL,Bazar,C
+CCA,COMERCIAL,Sin definir,C
+CCD,COMERCIAL,Sin definir,C
+CCE,COMERCIAL,Menor no Diferencia,C
+CCF,COMERCIAL,Sin Definir,C
+CCL,COMERCIAL,Calzado,C
+CCR,COMERCIAL,Carnicería,C
+CDM,COMERCIAL,Personal o doméstico,C
+CDN,HOSTELERIA ,Sin Definir,G
+CDR,COMERCIAL,Droguería,C
+CEE,COMERCIAL,Sin Definir,C
+CFN,COMERCIAL,Financieros,C
+CFR,COMERCIAL,Farmacia,C
+CFT,COMERCIAL,Fontanería,C
+CGL,COMERCIAL,Galerías,C
+CIM,COMERCIAL,Imprenta,C
+CJY,COMERCIAL,Joyería,C
+CLB,COMERCIAL,Librería,C
+CMB,COMERCIAL,Muebles,C
+CPA,COMERCIAL,Por mayor,C
+CPR,COMERCIAL,Perfumería,C
+CRL,COMERCIAL,Relojería,C
+CSP,COMERCIAL,Supermercado,C
+CTJ,COMERCIAL,Tejidos,C
+D  ,COMERCIAL,Comercio,C
+DAT,COMERCIAL,Automóviles,C
+DBZ,COMERCIAL,Bazar,C
+DCE,COMERCIAL,Menor no Diferencia,C
+DCL,COMERCIAL,Calzado,C
+DCR,COMERCIAL,Carnicería,C
+DDC,COMERCIAL,Sin definir,C
+DDM,COMERCIAL,Personal o doméstico,C
+DDR,COMERCIAL,Droguería,C
+DFN,COMERCIAL,Financieros,C
+DFR,COMERCIAL,Farmacia,C
+DFT,COMERCIAL,Fontanería,C
+DGL,COMERCIAL,Galerías,C
+DIM,COMERCIAL,Imprenta,C
+DJY,COMERCIAL,Joyería,C
+DLB,COMERCIAL,Librería,C
+DMB,COMERCIAL,Muebles,C
+DPA,COMERCIAL,Por mayor,C
+DPR,COMERCIAL,Perfumería,C
+DRL,COMERCIAL,Relojería,C
+DSP,COMERCIAL,Supermercado,C
+DTJ,COMERCIAL,Tejidos,C
+E  ,EDUCATIVO,Enseñanza,E
+EBL,CULTURAL,Biblioteca,E
+EBS,EDUCATIVO,Básica,E
+ECL,CULTURAL,Casa Cultura,E
+EIN,EDUCATIVO,Instituto,E
+EMS,CULTURAL,Museo,E
+EPR,EDUCATIVO,Profesional,E
+EUN,CULTURAL,Universidad,E
+F  ,EDUCATIVO,Enseñanza,F
+FBL,CULTURAL,Biblioteca,F
+FBS,EDUCATIVO,Básica,F
+FCL,CULTURAL,Casa Cultura,F
+FIN,EDUCATIVO,Instituto,F
+FMS,CULTURAL,Museo,F
+FPR,EDUCATIVO,Profesional,F
+FUN,EDUCATIVO,Universidad,F
+G  ,TURISMO,Hotel,G
+GB1,HOSTELERIA,Sin definir. Bares y Hostelería,G
+GC,HOSTELERIA,Bares y Cafeterías,G
+GC1,HOSTELERIA,Café 1T,G
+GC2,HOSTELERIA,Café 2T,G
+GC3,HOSTELERIA,Café 3T,G
+GC4,HOSTELERIA,Café 4T,G
+GC5,HOSTELERIA,Café 5T,G
+GH1,TURISMO,Hotel 1E,G
+GH2,TURISMO,Hotel 2E,G
+GH3,TURISMO,Hotel 3E,G
+GH4,TURISMO,Hotel 4E,G
+GH5,TURISMO,Hotel 5E,G
+GP1,TURISMO,Apt. Bloq. Lujo 1C,G
+GP2,TURISMO,Apt. Bloq. Lujo 2C,G
+GP3,TURISMO,Apt. Bloq. Lujo 3C,G
+GPL,TURISMO,Apt. Bloq. Lujo,G
+GR1,HOSTELERIA,Restaurante 1T,G
+GR2,HOSTELERIA,Restaurante 2T,G
+GR3,HOSTELERIA,Restaurante 3T,G
+GR4,HOSTELERIA,Restaurante 4T,G
+GR5,HOSTELERIA,Restaurante 5T,G
+GS1,TURISMO,Hostal p 1E,G
+GS2,TURISMO,Hostal p 2E,G
+GS3,TURISMO,Hostal p 3E,G
+GT1,TURISMO,Colonias Lujo 1C,G
+GT2,TURISMO,Colonias Lujo 2C,G
+GT3,TURISMO,Colonias Lujo 3C,G
+GTL,TURISMO,Colonias Lujo,G
+H  ,TURISMO,Hotel,G
+HB1,HOSTELERIA,Sin definir. Bares y Hostelería,G
+HC1,HOSTELERIA,Café 1T,G
+HC2,HOSTELERIA,Café 2T,G
+HC3,HOSTELERIA,Café 3T,G
+HC4,HOSTELERIA,Café 4T,G
+HC5,HOSTELERIA,Café 5T,G
+HH1,TURISMO,Hotel 1E,G
+HH2,TURISMO,Hotel 2E,G
+HH3,TURISMO,Hotel 3E,G
+HH4,TURISMO,Hotel 4E,G
+HH5,TURISMO,Hotel 5E,G
+HP1,TURISMO,Apt. Bloq. Lujo 1C,G
+HP2,TURISMO,Apt. Bloq. Lujo 2C,G
+HP3,TURISMO,Apt. Bloq. Lujo 3C,G
+HPL,TURISMO,Apt. Bloq. Lujo,G
+HR1,HOSTELERIA,Restaurante 1T,G
+HR2,HOSTELERIA,Restaurante 2T,G
+HR3,HOSTELERIA,Restaurante 3T,G
+HR4,HOSTELERIA,Restaurante 4T,G
+HR5,HOSTELERIA,Restaurante 5T,G
+HS1,TURISMO,Hostal p 1E,G
+HS2,TURISMO,Hostal p 2E,G
+HS3,TURISMO,Hostal p 3E,G
+HT1,TURISMO,Colonias Lujo 1C,G
+HT2,TURISMO,Colonias Lujo 2C,G
+HT3,TURISMO,Colonias Lujo 3C,G
+HTL,TURISMO,Colonias Lujo,G
+I  ,INDUSTRIAL,Industria,I
+IAG,INDUSTRIAL,Agropecuaria,I
+IAL,INDUSTRIAL,Alimentación,I
+IAM,INDUSTRIAL,Almazaras que incluyan balsa de depuración de alpechines,I
+IAR,INDUSTRIAL,Agrícola,I
+IAS,INDUSTRIAL,Aserraderos,I
+IAT ,INDUSTRIAL,Sin Definir,I
+IBB,INDUSTRIAL,Bebida,I
+IBD,INDUSTRIAL,Bodegas subterráneas,I
+IBR,INDUSTRIAL,Barro,I
+ICH,INDUSTRIAL,Champiñoneras,I
+ICE,INDUSTRIAL,Sin Definir,I
+ICN,INDUSTRIAL,Construcción,I
+ICT,INDUSTRIAL,Canteras,I
+IEL,INDUSTRIAL,Electricidad,I
+IGR,INDUSTRIAL,Granjas,I
+IIE,INDUSTRIAL,Sin definir,I
+IIM,INDUSTRIAL,Química,I
+IIN,INDUSTRIAL,Invernaderos,I
+IIB,INDUSTRIAL,Sin Definir,I
+IMD,INDUSTRIAL,Madera,I
+IMN,INDUSTRIAL,Manufacturada,I
+IMT,INDUSTRIAL,Metálica,I
+IMU,INDUSTRIAL,Maquinaria,I
+IPL,INDUSTRIAL,Plástico,I
+IPP,INDUSTRIAL,Papel,I
+IPS,INDUSTRIAL,Pesca,I
+IPT,INDUSTRIAL,Petróleo,I
+ITB,INDUSTRIAL,Tabaco,I
+ITX,INDUSTRIAL,Textil,I
+IVD,INDUSTRIAL,Vidrio,I
+J  ,INDUSTRIAL,Industria,I
+JAG,INDUSTRIAL,Agropecuaria,I
+JAL,INDUSTRIAL,Alimentación,I
+JAM,INDUSTRIAL,Almazaras que incluyan balsa de depuración de alpechines,I
+JAR,INDUSTRIAL,Agrícola,I
+JAS,INDUSTRIAL,Aserraderos,I
+JBB,INDUSTRIAL,Bebida,I
+JBD,INDUSTRIAL,Bodegas subterráneas,I
+JBR,INDUSTRIAL,Barro,I
+JCE,Sin Definir,Sin Definir Garaje-Trastero-Local en Estructura,9
+JCH,INDUSTRIAL,Champiñoneras,I
+JCN,INDUSTRIAL,Construcción,I
+JCT,INDUSTRIAL,Canteras,I
+JEL,INDUSTRIAL,Electricidad,I
+JGR,INDUSTRIAL,Granjas,I
+JIM,INDUSTRIAL,Química,I
+JIN,INDUSTRIAL,Invernaderos,I
+JMD,INDUSTRIAL,Madera,I
+JMN,INDUSTRIAL,Manufacturada,I
+JMT,INDUSTRIAL,Metálica,I
+JMU,INDUSTRIAL,Maquinaria,I
+JPL,INDUSTRIAL,Plástico,I
+JPP,INDUSTRIAL,Papel,I
+JPS,INDUSTRIAL,Pesca,I
+JPT,INDUSTRIAL,Petróleo,I
+JTB,INDUSTRIAL,Tabaco,I
+JTX,INDUSTRIAL,Textil,I
+JVD,INDUSTRIAL,Vidrio,I
+K  ,DEPORTIVO,Deportivo,K
+KDP,DEPORTIVO,Deporte,K
+KES,DEPORTIVO,Estadio,K
+KPL,DEPORTIVO,Polideportivo,K
+KPS,DEPORTIVO,Piscina,K
+L  ,DEPORTIVO,Deportivo,K
+LDP,DEPORTIVO,Deporte,K
+LES,DEPORTIVO,Estadio,K
+LPL,DEPORTIVO,Polideportivo,K
+LPS,DEPORTIVO,Piscina,K
+M  ,SOLARES,Solares,M
+M--,Sin Definir,Sin Definir Garaje-Trastero-Local en Estructura,9
+N  ,SOLARES,Solares,M
+O  ,OFICINAS,Oficina,O
+OO1,OFICINAS,Sin Definir,O
+O02,OFICINAS,Prof. Superior,O
+O03,OFICINAS,Prof. Medio,O
+O06,OFICINAS,Médicos-Abogados-Porfesionales-etc,O
+O07,OFICINAS,ATS o Similares,O
+O10,OFICINAS,Sin Definir,O
+O11,OFICINAS,Profesores Mercant.,O
+O13,OFICINAS,Prof. Universitarios,O
+O15,OFICINAS,Escritores,O
+O16,OFICINAS,Artes Plásticas,O
+O17,OFICINAS,Músicos,O
+O43,OFICINAS,Vendedores y viajantes,O
+O44,OFICINAS,Agentes,O
+O75,OFICINAS,Tejedores,O
+O79,OFICINAS,Sastres,O
+O81,OFICINAS,Carpinteros,O
+O88,OFICINAS,Joyeros,O
+O99,OFICINAS,Otras actividades,O
+X  ,OFICINAS,Oficina,O
+X02,OFICINAS,Prof. Superior,O
+X03,OFICINAS,Prof. Medio,O
+X06,OFICINAS,Médicos-Abogados-Porfesionales-etc,O
+X07,OFICINAS,ATS o Similares,O
+X11,OFICINAS,Profesores Mercant.,O
+X13,OFICINAS,Prof. Universitarios,O
+X15,OFICINAS,Escritores,O
+X16,OFICINAS,Artes Plásticas,O
+X17,OFICINAS,Músicos,O
+X43,OFICINAS,Vendedores y viajantes,O
+X44,OFICINAS,Agentes,O
+X75,OFICINAS,Tejedores,O
+X79,OFICINAS,Sastres,O
+X81,OFICINAS,Carpinteros,O
+X88,OFICINAS,Joyeros,O
+X99,OFICINAS,Otras actividades,O
+P  ,PUBLICO,Público,P
+PAA,PUBLICO,Ayuntamiento 20.000 hab,P
+PAD,PUBLICO,Audiencia,P
+PAE,PUBLICO,Ayuntamiento +20.000 hab,P
+PCB,PUBLICO,Cabildo,P
+PDL,PUBLICO,Delegación,P
+PGB,PUBLICO,Gobierno,P
+PJA,PUBLICO,Juzgado Comarcal,P
+PJO,PUBLICO,Juzgado Provincial,P
+Q  ,PUBLICO,Público,P
+QAA,PUBLICO,Ayuntamiento 20.000 hab,P
+QAD,PUBLICO,Audiencia,P
+QAE,PUBLICO,Ayuntamiento +20.000 hab,P
+QCB,PUBLICO,Cabildo,P
+QDL,PUBLICO,Delegación,P
+QGB,PUBLICO,Gobierno,P
+QJA,PUBLICO,Juzgado Comarcal,P
+QJO,PUBLICO,Juzgado Provincial,P
+R  ,RELIGIOSO,Religioso,R
+RBS,RELIGIOSO,Basílica,R
+RCP,RELIGIOSO,Capilla,R
+RCT,RELIGIOSO,Catedral,R
+RER,RELIGIOSO,Ermita,R
+RPR,RELIGIOSO,Parroquia,R
+RSL,RELIGIOSO,sin dato,R
+RSN,RELIGIOSO,Sanitario,R
+S  ,RELIGIOSO,Religioso,R
+SBS,RELIGIOSO,Basílica,R
+SCP,RELIGIOSO,Capilla,R
+SCT,RELIGIOSO,Catedral,R
+SER,RELIGIOSO,Ermita,R
+SPR,RELIGIOSO,Parroquia,R
+SSN,RELIGIOSO,Sanitario,R
+T  ,ESPECTÁCULOS,Espectáculos,T
+TAD,ESPECTÁCULOS,Auditorio,T
+TBI,RESIDENCIAL,Sin Definir Garaje-Trastero-Local en Estructura,9
+TCM,ESPECTÁCULOS,Cine,T
+TCN,ESPECTÁCULOS,Cine no decorado,T
+TSL,ESPECTÁCULOS,Sala múltiple,T
+TTT,ESPECTÁCULOS,Teatro,T
+U  ,ESPECTÁCULOS,Espectáculos,T
+UAD,ESPECTÁCULOS,Auditorio,T
+UCM,ESPECTÁCULOS,Cine,T
+UCN,ESPECTÁCULOS,Cine no decorado,T
+USL,ESPECTÁCULOS,Sala múltiple,T
+UTT,ESPECTÁCULOS,Teatro,T
+V  ,RESIDENCIAL,Vivienda sin uso detallado,V
+W  ,RESIDENCIAL,Vivienda sin uso detallado,V
+Y  ,BENEFICENCIA,Otros,Y
+YAM,SANIDAD,Ambulatorio,Y
+YBE,URBANIZACION,Balsas y estanques,U
+YCA,COMERCIAL,Casino 20.000 h,C
+YCB,COMERCIAL,Club,C
+YCE,COMERCIAL,Casino +20.000 h,C
+YCL,SANIDAD,Clínica,Y
+YCT,EXTRACTIVO,Canteras,I
+YDE,INSTALACIONES,Depuradoras aguas residuales,A
+YDG,INSTALACIONES,Depósitos de gases de industria no agraria,A
+YDL,INSTALACIONES,Depósitos de líquidos y tanques de industria no agraria,A
+YDS,SANIDAD,Dispensario,Y
+YGR,EDUCATIVO,Guardería,E
+YGV,EXTRACTIVO,Graveras,I
+YHG,SANIDAD,Higiene,Y
+YHS,SANIDAD,Hospital,Y
+YMA,EXTRACTIVO,Minas a cielo abierto,I
+YME,ESTACIONAMIENTO,Muelles y embarcaderos,A
+YPC,INDUSTRIAL,Piscifactorías y cetáreas,I
+YRS,BENEFICENCIA,Residencia,Y
+YSA,OFICINAS,Sindicato local,O
+YSC,SANIDAD,Socorro,Y
+YSL,INDUSTRIAL,Silos y depósitos de sólidos de industria no agraria,I
+YSN,SANIDAD,Sanatorio,Y
+YSO,OFICINAS,Sindicato provincial,O
+YVR,INDUSTRIAL,Vertederos,I
+Z  ,BENEFICENCIA,Otros,Y
+ZAM,SANIDAD,Ambulatorio,Y
+ZBE,URBANIZACION,Balsas y estanques,U
+ZCA,COMERCIAL,Casino 20.000 h,C
+ZCB,COMERCIAL,Club,C
+ZCE,COMERCIAL,Casino +20.000 h,C
+ZCL,SANIDAD,Clínica,Y
+ZCT,EXTRACTIVO,Canteras,I
+ZDE,INSTALACIONES,Depuradoras aguas residuales,A
+ZDG,INSTALACIONES,Depósitos de gases de industria agrícola_ganadera_forestal,A
+ZDL,INSTALACIONES,Depósitos de líquidos_tanques de industria agrícola_ganadera_forestal,A
+ZDS,SANIDAD,Dispensario,Y
+ZGR,EDUCATIVO,Guardería,E
+ZGV,EXTRACTIVO,Graveras,I
+ZHG,SANIDAD,Higiene,Y
+ZHS,SANIDAD,Hospital,Y
+ZMA,EXTRACTIVO,Minas a cielo abierto,I
+ZME,ESTACIONAMIENTO,Muelles y embarcaderos,A
+ZPC,INDUSTRIAL,Piscifactorías y cetáreas,I
+ZRS,BENEFICENCIA,Residencia,Y
+ZSA,OFICINAS,Sindicato local,O
+ZSC,SANIDAD,Socorro,Y
+ZSL,INSTALACIONES,Silos y depósitos de sólidos de industria agrícola_ganadera_forestal,A
+ZSN,SANIDAD,Sanatorio,Y
+ZSO,OFICINAS,Sindicato provincial,O
+ZVR,INDUSTRIAL,Vertederos,I
+YSP,CUBIERTOS,Soportal o porche abierto 50%,9
+YTZ,CUBIERTOS,Terraza cubierta 100%,9
+YPO,CUBIERTOS,Porche cerrado por 3 lados 100%,9
+YTD,DESCUBIERTA,Terraza descubierta 100%,9
+YOU,URBANIZACION,Obras de Urbanización Interior,U
+YJD,URBANIZACION,Jardín privado 100%,U
+AAV,APARCAMIENTO,Aparcamiento en vivienda,V
+YPS,CUBIERTOS,Soportal o porche abierto 50%,9
+TZA,CUBIERTOS,Soportal o porche abierto 50%,9
+YZB,BENEFICENCIA,Sin Determinar,Y
+YH6,ALMACEN,Almacén,A
+ZH6,ALMACEN,Almacén,A
+OOF,OFICINAS,Oficina en uso industrial ERR,I
+GH,TURISMO,Hotel,G
+GP,TURISMO,Apt. Bloq. Lujo,G
+GR,HOSTELERIA,Restaurante,G
+GS,TURISMO,Hostal,G
+GT,TURISMO,Colonias Lujo,G
+   ,SIN DATO,Sin dato, 
